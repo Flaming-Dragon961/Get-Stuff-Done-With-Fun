@@ -210,7 +210,6 @@ while x!=8:
                                 print("You did not get a letter")
                                 index+=1
                         index=0
-                        print(word)
                     else:
                         print(f"You Got It! The guess you made was {guess}, and that was the right word!")
                         break
